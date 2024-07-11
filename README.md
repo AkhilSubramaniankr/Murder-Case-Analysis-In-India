@@ -1,1 +1,6 @@
 # Murder-Analysis
+## Crime in India: A Critical Review of Data Collection and Analysis
+
+Safe countries bestow multiple social and economic benefits on the individual and larger community.Therefore, crime levels must be controlled. While India is a relatively peaceful country by global standards,there is significant scope for improvement in terms of policing, the national criminal justice system, and how data on crimes is collected and analysed. Amid India’s rapid urbanisation, it is crucial tostudy the various facets of criminality from the city perspective to fostersafe and productive environments
+
+India established the National Crime Records Bureau (NCRB) in 1986, a national system for collecting and collating crime statistics. It provides a fair degree of information on crime, the nature of crime, and crime rates in the country. Given the enormous size of the Indian population and its socioeconomic evolutions, India has a comparatively low crime rate by global standards and its unique context. Even so, India—and indeed all other countries—must closely monitor crime trends and rates as the criminal world is dynamic and constantly engineering new forms of wrongdoing. Tackling such activities requires robust and agile policies based on extensive data.
