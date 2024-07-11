@@ -12,11 +12,7 @@ This project analyzes murder statistics across various states in India from 2020
 - Visualization of murder data by age categories (Child and Adult)
 - Identification of states with the highest murder rates
 - Comparative analysis across multiple years
-
-### Installation
-Clone the repository.
-Install required dependencies using pip install -r requirements.txt.
-
+  
 ### Usage
 To run the analysis:
 - Ensure Python 3.x is installed.
@@ -38,5 +34,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 For inquiries, contact akhilsubramaniankr@gmail.com.
 
 ### Acknowledgements
-Data sourced from Government of India.
-Inspiration from similar projects on crime analysis.
+Data sourced from Government of India - National Crime Records Bureau (NCRB).
+
